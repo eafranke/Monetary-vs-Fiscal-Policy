@@ -1,4 +1,4 @@
-# Which Type of Government Stimulus is Better for Recessions?
+# Which Type of Government Stimulus is Better for Recessions? Measuring the Effects of Monetary and Fiscal Policy Shocks on Economic Conditions
 
 ## About
 
